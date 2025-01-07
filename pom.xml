@@ -96,13 +96,13 @@
       <repository>
         <id>nexus</id>
         <name>Landmark Technologies Releases Nexus Repository</name>
-        <url>http://184.72.89.2:8081/repository/newbuild-releases/</url>
+        <url>http://54.196.132.85:8081/repository/groupee-releases/</url>
       </repository>
       
       <snapshotRepository>
         <id>nexus</id>
         <name>Landmark Technologies Snapshot Nexus Repository </name>
-        <url>http://184.72.89.2:8081/repository/newbuild-snapshots/</url>
+        <url>http://54.196.132.85:8081/repository/groupee-snapshot/</url>
       </snapshotRepository>
       
   </distributionManagement>
