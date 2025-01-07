@@ -96,13 +96,13 @@
       <repository>
         <id>nexus</id>
         <name>Landmark Technologies Releases Nexus Repository</name>
-        <url>http://54.196.132.85:8081/repository/groupee-releases/</url>
+        <url>http://54.196.132.85:8081/repository/web-releases/</url>
       </repository>
       
       <snapshotRepository>
         <id>nexus</id>
         <name>Landmark Technologies Snapshot Nexus Repository </name>
-        <url>http://54.196.132.85:8081/repository/groupee-snapshot/</url>
+        <url>http://54.196.132.85:8081/repository/web-snapshot/</url>
       </snapshotRepository>
       
   </distributionManagement>
